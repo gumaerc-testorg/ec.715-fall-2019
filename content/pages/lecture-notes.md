@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1db08f19-717f-ae47-7c81-6368ded555e0
 ---
@@ -160,7 +163,7 @@ History of Boston's Water Supply
 {{< tdopen >}}
 
 
-[19th and 20th c. Sanitary Revolution & Metropolitan Boston’s Urban Water Supply (PDF - 3MB)]({{< baseurl >}}/resources/mitec_715f19_lec6)
+[19{{< sup "th" >}} and 20{{< sup "th" >}} c. Sanitary Revolution & Metropolitan Boston’s Urban Water Supply (PDF - 3MB)]({{< baseurl >}}/resources/mitec_715f19_lec6)
 
 
 {{< tdclose >}}
