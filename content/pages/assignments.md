@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Description of class assignments for D-Lab: Water, Sanitation, and Hygiene.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

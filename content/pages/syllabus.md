@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Syllabus, including course objectives and grading, for D-Lab: Water,
+  Sanitation, and Hygiene.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

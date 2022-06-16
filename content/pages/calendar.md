@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Calendar of topics, seminars, labs, and key dates for D-Lab: Water,
+  Sanitation, and Hygiene.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
