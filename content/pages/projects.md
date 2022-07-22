@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'Description of the main project deliverables for D-Lab: Water, Sanitation,
+  and Health.'
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 89feb92a-d791-c523-a4ec-8f2d3aff11fa
 ---

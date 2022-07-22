@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Syllabus, including course objectives and grading, for D-Lab: Water,
+  Sanitation, and Hygiene.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: aae6091e-7559-409a-da4b-dceac1ca45ad
 ---
@@ -35,7 +39,7 @@ Course Objectives
 *   Recognize the role of community participation, governance, and finance in enabling WASH projects to succeed and become sustainable.
 *   Be able to critically evaluate WASH interventions and technologies with respect to multiple criteria, with an understanding that a knowledge of the inter-relationship among multiple factors—cultural, social, economic, environmental, communication and emotional intelligence—are required alongside technical skills.
 *   Plan and commence one specific project in a location of your choice, either as part of a team or as an individual term project.
-*   Enjoy this course for the love of learning and to strengthen your sense of meaning, purpose, and hope in a 21st century that has huge equity and justice challenges with which we could all engage.
+*   Enjoy this course for the love of learning and to strengthen your sense of meaning, purpose, and hope in a 21{{< sup "st" >}} century that has huge equity and justice challenges with which we could all engage.
 
 Textbooks
 ---------
