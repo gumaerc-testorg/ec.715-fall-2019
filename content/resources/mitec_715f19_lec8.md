@@ -5,6 +5,7 @@ file: /courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019/896be4f19b6e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
