@@ -118,7 +118,7 @@ Cercone, J, Briceno, R and Concheso, T. "Economic analysis of handwashing in Cen
 
 ## Household and Community Water Treatment and Safe Storage
 
-Nath, K. J., Sally Bloomfield, and Martin Jones. "[Household water storage, handling and point-of-use treatment (PDF)](http://bvsper.paho.org/share/ETRAS/AyS/bvsacd/cd47/storage/indice.pdf)." A review commissioned by IFH (2006).
+Nath, K. J., Sally Bloomfield, and Martin Jones. "Household water storage, handling and point-of-use treatment." A review commissioned by IFH (2006).
 
 Masters, Gilbert M., and Wendell P. Ela. "Water treatment." In *Introduction to Environmental Engineering and Science*. 3rd edition. Prentice Hall, 1991, pp. 187–310. ISBN: 9780131481930.
 
@@ -222,7 +222,7 @@ Starkl, Markus, and Norbert Brunner. "Feasibility versus sustainability in urban
 
 Jaglin, Sylvy. "[The right to water versus cost recovery: Participation, urban water supply, and the poor in sub-Saharan Africa](https://journals.sagepub.com/doi/abs/10.1177/095624780201400119)." *Environment and Urbanization* 14, no. 1 (2002): 231–245. 
 
-Public Citizen's Water for All Program. "[Water Privatization Fiascos: Web site cases on Buenos Aires, Manila, Cochabamba, Atlanta, Jakarta, Nelspruit, and the United Kingdom (PDF)](http://saveobwater.com/Privatization/privatizationfiascos.pdf)." Public Citizen, 2003.
+Public Citizen's Water for All Program. "Water Privatization Fiascos: Web site cases on Buenos Aires, Manila, Cochabamba, Atlanta, Jakarta, Nelspruit, and the United Kingdom." Public Citizen, 2003.
 
 Brunner, Norbert, and Markus Starkl. "Financial and economic determinants of collective action: The case of wastewater management." *Environmental Impact Assessment Review* 32, no. 1 (2012): 140–150.
 
@@ -250,7 +250,7 @@ Izaguirre, Ada Karina, and Edouard Perard. "[Private Activity in Water Supply De
 
 Isham, Jonathan, Deepa Narayan, and Lant Pritchett. "[Does participation improve performance? Establishing causality with subjective data](https://academic.oup.com/wber/article-abstract/9/2/175/1646579)." *The World Bank Economic Review* 9, no. 2 (1995): 175–200.
 
-Gleick, Peter H., and Nicholas L. Cain. *The World's Water 2004-2005: The Biennial Report on Freshwater Resources*. Island Press, 2004. \[Preview with [Google Books](https://books.google.com/books?id=tu9thRkDd6oC&lpg=PR13&ots=_brLqe5d3b&dq=the%20world's%20water%202004-2005%20biennial%20report&lr&pg=PR13#v=onepage&q&f=false)\]
+Gleick, Peter H., and Nicholas L. Cain. *The World's Water 2004-2005: The Biennial Report on Freshwater Resources*. Island Press, 2004. \[Preview with [Google Books](https://books.google.com/books?id=tu9thRkDd6oC&lpg=PR13&ots=_brLqe5d3b&dq=the%20world%27s%20water%202004-2005%20biennial%20report&lr&pg=PR13#v=onepage&q&f=false)\]
 
 Solo, Tova Maria. [*Independent Water Entrepreneurs in Latin America: The Other Private Sector in Water Services*](https://agris.fao.org/agris-search/search.do?recordID=US2012406797). The World Bank, 2003.
 
