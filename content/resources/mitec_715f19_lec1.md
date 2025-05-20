@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019/889ee32c53cdb60663677d6c9cda2080_MITEC_715F19_lec1.pdf
+file: /courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019/889ee32c53cdb60663677d6c9cda2080_MITEC_715F19_lec1.pdf
 file_size: 175239
 file_type: application/pdf
 learning_resource_types:

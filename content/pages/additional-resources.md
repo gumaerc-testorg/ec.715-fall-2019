@@ -252,7 +252,7 @@ Isham, Jonathan, Deepa Narayan, and Lant Pritchett. "[Does participation improve
 
 Gleick, Peter H., and Nicholas L. Cain. *The World's Water 2004-2005: The Biennial Report on Freshwater Resources*. Island Press, 2004. \[Preview with [Google Books](https://books.google.com/books?id=tu9thRkDd6oC&lpg=PR13&ots=_brLqe5d3b&dq=the%20world%27s%20water%202004-2005%20biennial%20report&lr&pg=PR13#v=onepage&q&f=false)\]
 
-Solo, Tova Maria. [*Independent Water Entrepreneurs in Latin America: The Other Private Sector in Water Services*](https://agris.fao.org/agris-search/search.do?recordID=US2012406797). The World Bank, 2003.
+Solo, Tova Maria. [*Independent Water Entrepreneurs in Latin America: The Other Private Sector in Water Services*](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/786541468012040884/independent-water-entrepreneurs-in-latin-america-the-other-private-sector-in-water-services). The World Bank, 2003.
 
 ## WASH Library
 
