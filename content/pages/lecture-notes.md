@@ -35,7 +35,7 @@ WASH and "One Health"
 
 {{% resource_link "0799d1cc-ba55-ee31-6ce8-3b992e996001" "One Health (PDF - 1.2MB)" %}}
 
-Guest Lecture: [Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University](https://vet.tufts.edu/people/faculty/j-hellen-amuguni)
+Guest Lecture: {{% resource_link "e3ae50ac-4aeb-4194-96c9-f61c40bd1b07" "Hellen Amuguni, Assistant Professor at Cummings School of Veterinary Medicine, Tufts University" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
