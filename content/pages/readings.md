@@ -47,9 +47,9 @@ Barrett, M. A., and Steven A. Osofsky. "One Health: Interdependence of people, o
 
 Pickford, John. *Low-Cost Sanitation: A Survey of Practical Experience*. Intermediate Technology Publications Ltd (ITP), 1995. ISBN: 9781853392337.
 
-Chambers, Robert, and Kamal Kar. [*Handbook on Community-Led Total Sanitation*](https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/872). Institute of Development Studies (UK)/Plan International, 2008.
+Chambers, Robert, and Kamal Kar. {{% resource_link "063907a9-32e6-412f-a422-5623fddc7703" "*Handbook on Community-Led Total Sanitation*" %}}. Institute of Development Studies (UK)/Plan International, 2008.
 
-Shaw, Rod. [*A Collection of Contemporary Toilet Designs*](https://repository.lboro.ac.uk/articles/A_collection_of_contemporary_toilet_designs/9585221). EOOS and WEDC, Loughborough University, 2014.
+Shaw, Rod. {{% resource_link "dab702c1-8634-4e51-9e8c-45c69d0b2d66" "*A Collection of Contemporary Toilet Designs*" %}}. EOOS and WEDC, Loughborough University, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -61,31 +61,31 @@ Shaw, Rod. [*A Collection of Contemporary Toilet Designs*](https://repository.lb
 6
 {{< tdclose >}}{{< tdopen >}}
 
-Cutler, David, and Grant Miller. "[The role of public health improvements in health advances: The twentieth-century United States](https://link.springer.com/article/10.1353/dem.2005.0002)." *Demography* 42, no. 1 (2005): 1-22.
+Cutler, David, and Grant Miller. "{{% resource_link "3b6d9b65-eb1f-45b4-a463-d4a99454307d" "The role of public health improvements in health advances: The twentieth-century United States" %}}." *Demography* 42, no. 1 (2005): 1-22.
 
  Swallow, Pamela C. *The Remarkable Life and Career of Ellen Swallow Richards: Pioneer in Science and Technology*. John Wiley & Sons, 2014. ISBN: 9781118923832.
 
-Whipple, George. "Present status of water purification in the United States and the part that the Massachusetts Institute of Technology has played." In *Technology and Industrial Efficiency*. McGraw-Hill Book Company, 1911, pp. 399–405. \[Full text on [Google Books](https://books.google.com/books?id=-5UpAAAAYAAJ&pg=PA399#v=onepage&q&f=false)\]
+Whipple, George. "Present status of water purification in the United States and the part that the Massachusetts Institute of Technology has played." In *Technology and Industrial Efficiency*. McGraw-Hill Book Company, 1911, pp. 399–405. \[Full text on {{% resource_link "d62114cd-be05-4a7f-989c-7243aac90b35" "Google Books" %}}\]
 
 Vesilind, P. Aarne and Susan Murcott. "Ellen Swallow Richards." *Environmental Engineer* 32, no. 4 (1996): 13–18. 
 
 {{< tdclose >}}{{< tdopen >}}
-Massachusetts. "On the present condition of certain rivers of Massachusetts." In [*Public Documents of Massachusetts 1873 Vols. 30-31*](https://babel.hathitrust.org/cgi/pt?id=hvd.li2kze&view=1up&seq=87). Boston: Secretary of the Commonwealth, 1858, pp. 87–180.
+Massachusetts. "On the present condition of certain rivers of Massachusetts." In {{% resource_link "827f57d5-dd39-4d19-9b51-0bb41465d1a8" "*Public Documents of Massachusetts 1873 Vols. 30-31*" %}}. Boston: Secretary of the Commonwealth, 1858, pp. 87–180.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 
 \[FG\] Chapters 14 and 17
 
-Bartram, Jamie, and Paul Hunter. "[Bradley Classification of disease transmission routes for water-related hazards](https://www.routledgehandbooks.com/doi/10.4324/9781315693606.ch03)." In *Routledge Handbook of Water and Health*. Bartram, J., R. Baum, et al (eds). Routledge, 2015. ISBN: 9781138910072.
+Bartram, Jamie, and Paul Hunter. "{{% resource_link "b82652ed-355e-4727-941b-540aee27c57f" "Bradley Classification of disease transmission routes for water-related hazards" %}}." In *Routledge Handbook of Water and Health*. Bartram, J., R. Baum, et al (eds). Routledge, 2015. ISBN: 9781138910072.
 
 {{< tdclose >}}{{< tdopen >}}
 
-[3M Petrifilm interpretation guide (PDF)](https://multimedia.3m.com/mws/media/236246O/petrifilm-ecoli-coliform-interpretation-guide.pdf)
+{{% resource_link "3555a488-c00f-48f1-aa6b-a183e34c662b" "3M Petrifilm interpretation guide (PDF)" %}}
 
-Howard, Guy, Margaret E. Ince, O. Schmoll, and Michael D. Smith. [*Rapid Assessment of Drinking-Water Quality: A Handbook for Implementation*](https://repository.lboro.ac.uk/articles/book/Rapid_assessment_of_drinking_water_quality_a_handbook_for_implementation/9585290/1). World Health Organization, 2012. ISBN: 9789241504683.
+Howard, Guy, Margaret E. Ince, O. Schmoll, and Michael D. Smith. {{% resource_link "efe224aa-d969-4ee0-a69c-1e112a5c86fe" "*Rapid Assessment of Drinking-Water Quality: A Handbook for Implementation*" %}}. World Health Organization, 2012. ISBN: 9789241504683.
 
-Christian, Kira A., A. Danielle Iuliano, et al. "[What we are watching—top global infectious disease threats, 2013-2016: An update from CDC's Global Disease Detection Operations Center](https://www.liebertpub.com/doi/10.1089/hs.2017.0004)." *Health Security* 15, no. 5 (2017): 453-462.
+Christian, Kira A., A. Danielle Iuliano, et al. "{{% resource_link "e406f951-60f9-40a8-956b-5b2ea0566d24" "What we are watching—top global infectious disease threats, 2013-2016: An update from CDC's Global Disease Detection Operations Center" %}}." *Health Security* 15, no. 5 (2017): 453-462.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -93,9 +93,9 @@ Christian, Kira A., A. Danielle Iuliano, et al. "[What we are watching—top glo
 \[FG\] Chapter 24
 {{< tdclose >}}{{< tdopen >}}
 
-Woltz, Billy. "[MIT recycling rate cut in half due to new contamination levels](https://thetech.com/2018/10/25/mit-recycling-halves)." *The Tech*, October 25, 2018.
+Woltz, Billy. "{{% resource_link "c2b14488-6a4f-464c-9793-c7d4f4476eea" "MIT recycling rate cut in half due to new contamination levels" %}}." *The Tech*, October 25, 2018.
 
-Allen, Cecilia, Virali Gokaldas, et al. "[On the road to zero waste: Successes and lessons from around the world](https://www.no-burn.org/resources/on-the-road-to-zero-waste-successes-and-lessons-from-around-the-world/)." Gaia.
+Allen, Cecilia, Virali Gokaldas, et al. "{{% resource_link "2224be18-4699-43cb-b5dd-883bccefb1fd" "On the road to zero waste: Successes and lessons from around the world" %}}." Gaia.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -117,21 +117,21 @@ Clopeck, Kate. "Ghana's water women." *Technology Review* (November/December 201
 
 Parr, Jeremy, Michael Smith, and Rod Shaw. "Chlorination." Chapter 46 in *UNICEF Cholera toolkit*. UNICEF, 2017.
 
-"[Purifying water during an emergency](https://www.doh.wa.gov/Emergencies/BePreparedBeSafe/SevereWeatherandNaturalDisasters/WaterPurification)." Washington State Department of Health.
+"{{% resource_link "d743b0ef-92ef-4d25-9871-c3ac6f249024" "Purifying water during an emergency" %}}." Washington State Department of Health.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Review \[FG\] Chapter 18
 {{< tdclose >}}{{< tdopen >}}
-Hauck, Jack E. "[Wenham Lake](https://hwlibrary.org/treasures_of_wenham_history/)." Chapter 2 in *Treasures of Wenham History*. Hamilton-Wenham Library.
+Hauck, Jack E. "{{% resource_link "8ec5839a-25a2-4041-9a66-1d5fb7140091" "Wenham Lake" %}}." Chapter 2 in *Treasures of Wenham History*. Hamilton-Wenham Library.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 
-Luby, Stephen P., Mubina Agboatwalla, et al. "[Effect of handwashing on child health: A randomised controlled trial](https://www.sciencedirect.com/science/article/pii/S0140673605669127)." *The Lancet* 366, no. 9481 (2005): 225-233.
+Luby, Stephen P., Mubina Agboatwalla, et al. "{{% resource_link "15ffbd3c-cb2e-4b1f-a15e-9b89aad07e42" "Effect of handwashing on child health: A randomised controlled trial" %}}." *The Lancet* 366, no. 9481 (2005): 225-233.
 
-Iyer, Param, Jennifer Sara, et al. "[The handwashing handbook. A guide for developing a hygiene promotion program to increase handwashing with soap](http://documents.worldbank.org/curated/en/681501468141299225/The-handwashing-handbook-a-guide-for-developing-a-hygiene-promotion-program-to-increase-handwashing-with-soap)." *The World Bank,* 2005.
+Iyer, Param, Jennifer Sara, et al. "{{% resource_link "877c8b8a-087b-42ed-9a27-3d9f7d9c4e86" "The handwashing handbook. A guide for developing a hygiene promotion program to increase handwashing with soap" %}}." *The World Bank,* 2005.
 
 {{< tdclose >}}{{< tdopen >}}
  
