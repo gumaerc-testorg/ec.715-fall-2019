@@ -50,7 +50,7 @@ The first deliverable for your WASH project is a proposal expanding on the scope
     *   If you are interested in creating a database of technologies for remediation of arsenic in drinking water in China, what are the technologies in that space that exist today?
     *   If you are interested in building a rainwater harvesting system for a community in Rwanda affected by excessive fluoride in their drinking water, or a safe irrigation system using wastewater, what are the standard rainwater harvesting designs (or wastewater irrigation issues) that you intend to address? Is your design the same or different from existing system designs? 
 5.  _Budget_: If you need funds to undertake your project, what budget do you need? (If you don’t need funds, omit this section.)
-6.  _References_: A rigorous reference List, including complete reference details, plus any URL if a URL exists. References should use one of the standard formats (APA, MLA, Chicago, IEEE, etc.). For guidance, see this [citation format guide](https://cmsw.mit.edu/writing-and-communication-center/citation-formats/) or this [citation style guide](https://pitt.libguides.com/citationhelp).
+6.  _References_: A rigorous reference List, including complete reference details, plus any URL if a URL exists. References should use one of the standard formats (APA, MLA, Chicago, IEEE, etc.). For guidance, see this {{% resource_link "50611edc-aed8-447d-b0f2-815f076c4899" "citation format guide" %}} or this {{% resource_link "11910aad-5c0c-475c-9207-802510203301" "citation style guide" %}}.
 
 The Second and Final Deliverables
 ---------------------------------

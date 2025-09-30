@@ -27,7 +27,7 @@ We tackle the WASH challenge from a transdisciplinary perspective incorporating 
 
 Students have the opportunity to pursue term projects and student-led tutorials that are of special interest. Upon completion of the course, students will be able to plan simple—yet reliable—WASH and environmental systems for low-resource settings that are compatible with local customs and available human and material resources. Although we focus on water, sanitation, and hygiene, the principles and modes of engagement are applicable to other types of human/infrastructure development. Graduate and undergraduate students from any department who are interested in international development at the grassroots level are encouraged to participate in this course.
 
-This course is part of [MIT D-Lab](http://d-lab.mit.edu/) which works with people around the world to develop and advance collaborative approaches and practical solutions to global poverty challenges.
+This course is part of {{% resource_link "b880ee42-42ae-4ad0-aab6-9dad0370410d" "MIT D-Lab" %}} which works with people around the world to develop and advance collaborative approaches and practical solutions to global poverty challenges.
 
 Course Objectives
 -----------------
