@@ -38,7 +38,7 @@ Water Use and Access, Sustainable Development Goals
 "Tour" of the World's Water Sources, Access, and Use and Sustainable Development Goals (SDGs)
 {{< tdclose >}}{{< tdopen >}}
 
-Insanirator Pitch/Demo by [Andrew Tsang](http://legatum.mit.edu/entrepreneur/andrew-tsang/)
+Insanirator Pitch/Demo by {{% resource_link "0c447684-ec64-4bee-9564-34a020701c97" "Andrew Tsang" %}}
 
 Speed Dating: Term Project Profiles and Pitches
 
@@ -50,7 +50,7 @@ Speed Dating: Term Project Profiles and Pitches
 WASH and "One Health"
 {{< tdclose >}}{{< tdopen >}}
 
-Guest Lecture: [Hellen Amuguni](https://vet.tufts.edu/people/faculty/j-hellen-amuguni), Associate Professor at Cummings School, Tufts University
+Guest Lecture: {{% resource_link "e3ae50ac-4aeb-4194-96c9-f61c40bd1b07" "Hellen Amuguni" %}}, Associate Professor at Cummings School, Tufts University
 
 One Health
 
@@ -67,7 +67,7 @@ Latrines
 {{< tdclose >}}{{< tdopen >}}
 *Shop*: Materials (PVC, Concrete, Plaster), Pipes, Hinges, Tools, and Technologies Used in Toilet Design and Construction
 {{< tdclose >}}{{< tdopen >}}
-*Optional Field Trip:* [Middlesex Fells Reservation and Reservoir](https://www.mass.gov/locations/middlesex-fells-reservation)
+*Optional Field Trip:* {{% resource_link "97eeeed4-9811-443e-a422-b056c9c56e9f" "Middlesex Fells Reservation and Reservoir" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -87,7 +87,7 @@ No Seminar (Field Trip)
 {{< tdclose >}}{{< tdopen >}}
 No Action Learning (Field Trip)
 {{< tdclose >}}{{< tdopen >}}
-*Field Trip:* [Metropolitan Waterworks Museum](https://waterworksmuseum.org/)
+*Field Trip:* {{% resource_link "31e218ef-3718-4e70-93c9-b7ee3bfe3d82" "Metropolitan Waterworks Museum" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -104,7 +104,7 @@ Term Project First Deliverable Due
 Participation and Solid Waste Management
 {{< tdclose >}}{{< tdopen >}}
 
-Guest Lecture: [Libby McDonald](https://d-lab.mit.edu/about/people/libby-mcdonald), Lecturer at MIT D-Lab
+Guest Lecture: {{% resource_link "1186cbfe-70ec-446c-b495-8914c49eae24" "Libby McDonald" %}}, Lecturer at MIT D-Lab
 
 Community-Scale Solid Waste Management 
 
@@ -118,7 +118,7 @@ Project Work Session
 Community Water Treatment
 {{< tdclose >}}{{< tdopen >}}
 
-Guest Lecture: [Kate Cincotta](https://sahaglobal.org/our-story/meet-our-team/), Co-founder and Executive Director of Saha Global
+Guest Lecture: {{% resource_link "f0f49058-515d-41a4-bee0-112da29e2bdd" "Kate Cincotta" %}}, Co-founder and Executive Director of Saha Global
 
 Saha Global Story
 
@@ -149,7 +149,7 @@ No Seminar (Field Trip)
 {{< tdclose >}}{{< tdopen >}}
 No Action Learning (Field Trip)
 {{< tdclose >}}{{< tdopen >}}
-*Field Trip*: [Salem-Beverly Water Treatment Plant](https://www.salem.com/water-sewer)
+*Field Trip*: {{% resource_link "3f53f1c5-1f4b-4cf2-bf34-03d5c71bb206" "Salem-Beverly Water Treatment Plant" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -160,7 +160,7 @@ Hygiene & Handwashing
 
 Gender Issues in WASH
 
-Guest Lecture: [Zubaida Bai](https://www.ted.com/speakers/zubaida_bai), CEO of azyh
+Guest Lecture: {{% resource_link "0a142e86-613f-4001-be27-5dd0ba4a1a17" "Zubaida Bai" %}}, CEO of azyh
 
 ayzh Clean Birth Kits
 

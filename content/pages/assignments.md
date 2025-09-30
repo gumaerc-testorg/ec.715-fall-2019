@@ -26,9 +26,9 @@ Students, individually, or in groups of two or three, will sign up for and give 
 
 Using source material and/or topic ideas from any of the sites below and/or in the course website, you may find some resources to stimulate your interest. You do not have to draw from any of these resources. These are just offered as possible aids. Instead, you are welcome to come up with your own idea(s) for a WASH tutorial. 
 
-- [WELL Technical Briefs](http://www.lboro.ac.uk/orgs/well/resources/technical-briefs/technical-briefs.htm)
-- [CDC on Household Water Treatment, the Safe Water Program, and Safe Storage](https://www.cdc.gov/global-water-sanitation-hygiene/about/about-household-water-treatment.html)
-- [Practical Action – Technical Fact Sheets – Topic – Water and Sanitation](https://answers.practicalaction.org/our-resources/community/water-and-sanitation-1-2)
-- [Center for Affordable Water and Sanitation Technologies (CAWST) – WASH Resources](https://www.cawst.org/services/resources?s=all&gf=all)
+- {{% resource_link "d70ef94f-8e0e-4cf4-ae2e-1eb0688892e5" "WELL Technical Briefs" %}}
+- {{% resource_link "6ab4af4e-fc7d-49d3-9999-a35a5a0a70f1" "CDC on Household Water Treatment, the Safe Water Program, and Safe Storage" %}}
+- {{% resource_link "99d1a733-e7f0-4f65-a9e2-cd6c4f0d3363" "Practical Action – Technical Fact Sheets – Topic – Water and Sanitation" %}}
+- {{% resource_link "20785b99-4148-4094-bdd1-7253efd8330d" "Center for Affordable Water and Sanitation Technologies (CAWST) – WASH Resources" %}}
 
 Each person or team will give one tutorial during the semester. Imagine that you are presenting in a developing country village or school without grid electricity or Internet. Use of the white board or other simple, manual, visual aids and your own imagination are the major tools we welcome. Alternatives to PowerPoint are encouraged in the WASH tutorials exercise. Sharing short videos are fine too.
